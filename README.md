@@ -1,1 +1,2 @@
-# uniswapv3InRinkebyTestData
+# Uniswap V3 Subgraph
+
